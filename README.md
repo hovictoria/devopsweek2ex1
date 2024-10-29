@@ -6,4 +6,5 @@ meeeeee
 helloooooooo
 how dare u
 hi wan sim
+\n merge
 
